@@ -1,7 +1,10 @@
 Hello World!
 
 This is my text file for my GDI class.
-
 This is only a text file.
 
 Do not be alarmed.
+
+This is my 2nd update.  :-P
+
+This is supposed to be in version 2
