@@ -1,0 +1,7 @@
+Hello World!
+
+This is my text file for my GDI class.
+
+This is only a text file.
+
+Do not be alarmed.
